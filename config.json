@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
+ "ip": "narutosmpp.aternos.me:24384",
+ "port": "",
+ "name": "urmom",
  "auto-night-skip": "false",
- "token": "Your_discord_bot_token_here",
- "channelid": "Your_discord_server_channel_id_here",
- "loginmsg": "Your_Login_message_here"
+ "token": "OTA5NDg1OTY5NDQ1NjM0MDc4.YZE-0A.oHFT282wE8PrCj5E2gbi0JS_4w4",
+ "channelid": "909876234996039721",
+ "loginmsg": "tharabhaijoginder madar chot hain"
 }
